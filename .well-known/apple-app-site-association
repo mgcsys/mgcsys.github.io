@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["MEQ76TZB7Q.com.mgcsys.CwUtils"],
+        "components": [
+          {
+            "/": "/cwutils/*",
+            "comment": "for cwutils."
+          }
+        ]
+      }
+    ]
+  }
+}
