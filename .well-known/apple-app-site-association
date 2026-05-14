@@ -11,5 +11,8 @@
         ]
       }
     ]
+  },
+  "webcredentials": {
+    "apps": ["MEQ76TZB7Q.com.mgcsys.CwUtils"]
   }
 }
